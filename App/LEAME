@@ -1,0 +1,20 @@
+
+					Bienvenido al Sistema de Gestion de Estacionamiento
+
+
+
+Asegurese de tener instalado python, la base de datos ZODB y el modulo TKinter utilizado para la interfaz grafica (GUI)
+
+Para ejecutar el programa, dirijase a la raiz de la carpeta, donde se encuentra el script 'Aplicacion'
+
+Haga click derecho en la raiz, y abra la terminal de comandos
+
+Escriba 'python Aplicacion.py'  , sin las comillas, y el programa debera ejecutarse
+
+La primera vez debera ingresar la cantidad de lugares disponibles de estacionamiento, asi como el 
+precio por hora por el uso del mismo.
+
+Seguidamente, se le mostrara el menu principal, en donde podra interactuar con los botones, de manera intuitiva.
+
+
+			Muchas Gracias
